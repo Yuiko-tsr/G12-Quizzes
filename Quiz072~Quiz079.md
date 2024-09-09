@@ -4,6 +4,8 @@
 
 ## Answer
 
+<img width="395" alt="Screen Shot 2024-09-09 at 20 08 30" src="https://github.com/user-attachments/assets/1dfa2414-5d5b-49dc-8d2a-c79b986a415d">
+
 # Quiz 073
 ## Question
 
