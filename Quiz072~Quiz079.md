@@ -19,7 +19,7 @@
 ```
 <img width="248" alt="Screen Shot 2024-09-09 at 9 40 37" src="https://github.com/user-attachments/assets/5f069bff-8007-436d-a379-356a3949cdf4">
 
-<img width="392" alt="Screen Shot 2024-09-09 at 9 38 13" src="https://github.com/user-attachments/assets/22ef57ca-5ba0-4ada-94bf-06ba25e8a11c">
+
 ## Code running
 
 # Quiz074
@@ -27,6 +27,7 @@
 <img width="955" alt="Screen Shot 2024-09-09 at 9 34 31" src="https://github.com/user-attachments/assets/0041fcb8-fd79-4b19-9782-9cba749c4e63">
 
 ## Answer
+<img width="392" alt="Screen Shot 2024-09-09 at 9 38 13" src="https://github.com/user-attachments/assets/22ef57ca-5ba0-4ada-94bf-06ba25e8a11c">
 <img width="373" alt="Screen Shot 2024-09-09 at 9 40 04" src="https://github.com/user-attachments/assets/5e9beff0-9cb9-4367-9617-6389cfb08f69">
 
 ## Code running
