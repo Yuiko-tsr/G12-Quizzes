@@ -3,7 +3,24 @@
 
 ## Answer
 ```py
-
+['Ankara','Turkey','Tokyo','Japan','Lisbon','Portugal']
+CAPITALS.resetNext()
+count = 0
+while CAPITALS.hasNext()
+    count +=1
+    CAPITAL.getNext()
+end while
+n = counts/2
+CAPITALS.resetNext()
+while CAPITALS.hasNext()
+    loop i from 0 to length(CAPITALS)
+        if int(i) mod 2 == 0 then
+            capital.addItem(i)
+        elif int(i) mod 2 ==1 then 
+            country.addItem(i)
+        end if
+    end loop
+end while
 ```
 <img width="248" alt="Screen Shot 2024-09-09 at 9 40 37" src="https://github.com/user-attachments/assets/5f069bff-8007-436d-a379-356a3949cdf4">
 
