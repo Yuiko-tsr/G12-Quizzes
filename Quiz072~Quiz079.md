@@ -49,7 +49,7 @@ print(b)
 
 ## Code running
 
-<img width="363" alt="Screen Shot 2024-09-09 at 14 12 24" src="https://github.com/user-attachments/assets/3e20cbc1-47cb-419a-a8d5-f07f83702c48">
+<img width="457" alt="Screen Shot 2024-09-09 at 20 17 59" src="https://github.com/user-attachments/assets/0d89b3da-3d23-4ccd-9a31-6f11620d3ed9">
 
 # Quiz074
 ## Question
