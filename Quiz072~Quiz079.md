@@ -22,9 +22,6 @@ while CAPITALS.hasNext()
     end loop
 end while
 ```
-<img width="248" alt="Screen Shot 2024-09-09 at 9 40 37" src="https://github.com/user-attachments/assets/5f069bff-8007-436d-a379-356a3949cdf4">
-
-## Code running
 
 # Quiz 073
 ## Question
