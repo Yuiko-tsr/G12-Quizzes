@@ -180,7 +180,7 @@ print(c)
 # Quiz 079
 ## Question
 ## Answer
-'''.py
+```.py
 def msg(msg):
     msg = str(msg)
     n = len(msg)
