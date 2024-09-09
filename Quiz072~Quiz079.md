@@ -5,7 +5,7 @@
 ```py
 
 ```
-
+<img width="248" alt="Screen Shot 2024-09-09 at 9 40 37" src="https://github.com/user-attachments/assets/5f069bff-8007-436d-a379-356a3949cdf4">
 
 ## Code running
 
@@ -17,7 +17,6 @@
 ```py
 
 ```
-<img width="248" alt="Screen Shot 2024-09-09 at 9 40 37" src="https://github.com/user-attachments/assets/5f069bff-8007-436d-a379-356a3949cdf4">
 
 <img width="373" alt="Screen Shot 2024-09-09 at 9 40 04" src="https://github.com/user-attachments/assets/5e9beff0-9cb9-4367-9617-6389cfb08f69">
 
