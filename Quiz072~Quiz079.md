@@ -88,9 +88,9 @@ print(b)
 
 ## Code running
 
-<img width="203" alt="Screen Shot 2024-09-09 at 14 33 01" src="https://github.com/user-attachments/assets/1c44a7d3-240c-4a23-bfff-ccf1a5e263d5">
+<img width="191" alt="Screen Shot 2024-09-09 at 20 27 17" src="https://github.com/user-attachments/assets/06651324-847a-4eec-9046-b9476a55181c">
 
-
+(The answer of the quiz is wrong as the first row has even numbers and starts with 1 and the second row has odd numbers and starts with 0 which makes both true)
 # Quiz 075
 ## Question
 
