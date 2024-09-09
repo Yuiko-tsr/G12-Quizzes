@@ -72,7 +72,6 @@ plt.show()
 ```py
 
 ```
-<img width="536" alt="Screen Shot 2024-09-09 at 9 40 58" src="https://github.com/user-attachments/assets/05b851a4-93c4-4af9-a0b2-72c006f186ff">
 
 ## Code Running
 
@@ -81,6 +80,7 @@ plt.show()
 <img width="957" alt="Screen Shot 2024-09-09 at 9 36 16" src="https://github.com/user-attachments/assets/7b59e20a-bcfb-455c-a4ad-23899574ac89">
 
 ## Answer
+<img width="536" alt="Screen Shot 2024-09-09 at 9 40 58" src="https://github.com/user-attachments/assets/05b851a4-93c4-4af9-a0b2-72c006f186ff">
 
 # Quiz 078
 ## Question
