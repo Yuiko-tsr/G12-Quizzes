@@ -58,29 +58,24 @@ print(b)
 
 ## Answer
 ```.py
-def counter(input):
-    ones =0
-    count=0
-    for i in range(1,len(input)):
-        if count != 0:
-            if i ==1:
-                ones += 1
-                count +=1
-    if count %2 ==0:
-        if input[0]==1:
-            message = "True"
-        else:
-            message = "False"
-    else:
-        if input[0] ==0:
-            message ="True"
-        else:
-            message="False"
-    print(message)
+def parity_check(data: str) -> bool:
+    parity_bit = int(data[-1])
+    data_bits = data[:-1]
 
-a = counter('100110001011001110010110011100101')
+    count_ones = data_bits.count('1')
+
+    is_even_ones = (count_ones % 2 == 0)
+
+    if (is_even_ones and parity_bit == 1) or (not is_even_ones and parity_bit == 0):
+        return False
+    else:
+        return True
+
+
+a = parity_check("1001110010110011100110010110011100101")
+b=parity_check("011101111011101111011101111001111")
+
 print(a)
-b = counter('011101111101110111110111001111')
 print(b)
 ```
 
@@ -88,9 +83,8 @@ print(b)
 
 ## Code running
 
-<img width="191" alt="Screen Shot 2024-09-09 at 20 27 17" src="https://github.com/user-attachments/assets/06651324-847a-4eec-9046-b9476a55181c">
+<img width="184" alt="Screen Shot 2024-09-09 at 20 52 14" src="https://github.com/user-attachments/assets/8346e128-07d7-4742-802d-413aa694e7f2">
 
-(The answer of the quiz is wrong as the first row has even numbers and starts with 1 and the second row has odd numbers and starts with 0 which makes both true)
 # Quiz 075
 ## Question
 
