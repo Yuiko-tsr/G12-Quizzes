@@ -15,12 +15,40 @@
 
 ## Answer
 ```py
+def recieve(msg):
+    if len(msg)%3 != 0:
+        print("message invalid")
+    length = len(msg)//3
+    one = msg[0:length]
+    two = msg[length:2*length]
+    three=msg[length*2:3*length]
+    if one == two:
+        if two == three:
+            print(msg, 'True')
+        else:
+            print('False')
+            print(f"{one}{two}{three}")
+    else:
+        print('False')
+        if two==three:
+            print(f"{two}{two}{three}")
+        elif one == three:
+            print(f"{one}{one}{three}")
+        else:
+            print("message invalid")
+
+a = recieve('100111001011001110010110011100100')
+print(a)
+
+b=recieve('011101111101110111110111011111')
+print(b)
 
 ```
 
 <img width="373" alt="Screen Shot 2024-09-09 at 9 40 04" src="https://github.com/user-attachments/assets/5e9beff0-9cb9-4367-9617-6389cfb08f69">
 
 ## Code running
+<img width="363" alt="Screen Shot 2024-09-09 at 14 12 24" src="https://github.com/user-attachments/assets/3e20cbc1-47cb-419a-a8d5-f07f83702c48">
 
 # Quiz074
 ## Question
