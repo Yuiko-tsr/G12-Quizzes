@@ -134,7 +134,26 @@ plt.show()
 <img width="957" alt="Screen Shot 2024-09-09 at 9 36 16" src="https://github.com/user-attachments/assets/7b59e20a-bcfb-455c-a4ad-23899574ac89">
 
 ## Answer
+```.py
+def get_parity(k,p):
+    msg=""
+    num = 0
+    for i in range(1,k):
+        new=2**p
+        if new & p ==1:
+            msg+=f'{new-1}'
+        num+=1
+a= get_parity(7,1)
+print(a)
+b=get_parity(7,2)
+print(b)
+c=get_parity(7,3)
+print(c)
+
+```
 <img width="536" alt="Screen Shot 2024-09-09 at 9 40 58" src="https://github.com/user-attachments/assets/05b851a4-93c4-4af9-a0b2-72c006f186ff">
+
+## Code Running
 
 # Quiz 078
 ## Question
