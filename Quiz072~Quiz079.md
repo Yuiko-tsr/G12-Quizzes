@@ -13,6 +13,7 @@
 
 ## Answer
 ```py
+
 def recieve(msg):
     if len(msg)%3 != 0:
         print("message invalid")
@@ -22,12 +23,12 @@ def recieve(msg):
     three=msg[length*2:3*length]
     if one == two:
         if two == three:
-            print(msg, 'True')
+            print(msg, 'False')
         else:
-            print('False')
+            print('True')
             print(f"{one}{two}{three}")
     else:
-        print('False')
+        print('True')
         if two==three:
             print(f"{two}{two}{three}")
         elif one == three:
@@ -35,11 +36,12 @@ def recieve(msg):
         else:
             print("message invalid")
 
-a = recieve('100111001011001110010110011100100')
+a = recieve('100111001011001110010110011100101')
 print(a)
 
-b=recieve('011101111101110111110111011111')
+b=recieve('011101111101110111110111001111')
 print(b)
+
 
 ```
 
