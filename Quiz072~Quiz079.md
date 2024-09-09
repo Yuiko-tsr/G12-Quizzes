@@ -154,6 +154,7 @@ print(c)
 <img width="536" alt="Screen Shot 2024-09-09 at 9 40 58" src="https://github.com/user-attachments/assets/05b851a4-93c4-4af9-a0b2-72c006f186ff">
 
 ## Code Running
+<img width="192" alt="Screen Shot 2024-09-09 at 14 41 22" src="https://github.com/user-attachments/assets/68634091-8013-47ca-beed-3291bab4b54b">
 
 # Quiz 078
 ## Question
