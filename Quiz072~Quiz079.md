@@ -55,9 +55,36 @@ print(b)
 <img width="955" alt="Screen Shot 2024-09-09 at 9 34 31" src="https://github.com/user-attachments/assets/0041fcb8-fd79-4b19-9782-9cba749c4e63">
 
 ## Answer
+```.py
+def counter(input):
+    ones =0
+    count=0
+    for i in range(1,len(input)):
+        if count != 0:
+            if i ==1:
+                ones += 1
+                count +=1
+    if count %2 ==0:
+        if input[0]==1:
+            message = "True"
+        else:
+            message = "False"
+    else:
+        if input[0] ==0:
+            message ="True"
+        else:
+            message="False"
+    print(message)
+
+a = counter('100110001011001110010110011100101')
+print(a)
+b = counter('011101111101110111110111001111')
+print(b)
+```
 <img width="392" alt="Screen Shot 2024-09-09 at 9 38 13" src="https://github.com/user-attachments/assets/22ef57ca-5ba0-4ada-94bf-06ba25e8a11c">
 
 ## Code running
+<img width="203" alt="Screen Shot 2024-09-09 at 14 33 01" src="https://github.com/user-attachments/assets/1c44a7d3-240c-4a23-bfff-ccf1a5e263d5">
 
 
 # Quiz 075
