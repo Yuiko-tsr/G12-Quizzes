@@ -1,4 +1,3 @@
-<img width="961" alt="Screen Shot 2024-09-09 at 9 35 57" src="https://github.com/user-attachments/assets/af89f6d5-fec3-45b6-b0cf-df1a2748df63"># Quiz 072
 ## Question
 <img width="966" alt="Screen Shot 2024-09-09 at 9 34 10" src="https://github.com/user-attachments/assets/8c32b068-f16c-487e-a9af-a42f02c00190">
 
