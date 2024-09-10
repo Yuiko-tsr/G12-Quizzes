@@ -126,10 +126,23 @@ plt.show()
 
 ## Answer
 ```py
+def parity(k):
+    position = []
+    for i in range(0, k):
+        position.append(2**i - 1)
+    print(position)
 
+a = 3
+parity(a)
+b = 4
+parity(b)
+c = 5
+parity(c)
 ```
 
 ## Code Running
+
+<img width="305" alt="Screen Shot 2024-09-10 at 9 41 46" src="https://github.com/user-attachments/assets/c505c7f3-7443-483b-b73f-88b6b7338c00">
 
 # Quiz 077
 ## Question
